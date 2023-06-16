@@ -1,4 +1,4 @@
-# The numbers raised to the square never end 2,3,7 or 8
+# Numbers raised to the square never end 2,3,7 or 8
 
 You can run the bunle version of this script in your browser's console.
 
